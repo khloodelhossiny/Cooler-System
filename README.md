@@ -13,3 +13,6 @@ System consists of:
 2. Temperature should be appeared on LCD first row and also in seven-seg
 3. Cooler speed (duty cycle) should be appeared in second row
 4. Cooler system is consists of 5volt DC motor, when the range of temperature is from 35c to 50c the cooler Dc volt should be from 2.5 to 5 volt
+
+![Screenshot 2023-03-30 210412](https://user-images.githubusercontent.com/47139708/228940758-797267cb-28c8-4ee4-9781-254b7966c8ad.png)
+

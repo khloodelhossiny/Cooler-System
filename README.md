@@ -1,4 +1,4 @@
-# Cooler system
+# Cooler System
 ## Fan Speed Controller with Temperature
 
 #### Main function:
